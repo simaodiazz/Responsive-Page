@@ -1,0 +1,13 @@
+{
+  "name": "responsive-page",
+  "version": "1.0.0",
+  "main": "compiler-sass.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "sass": "^1.69.5"
+  },
+  "scripts": {
+    "start": "nodemon ."
+  }
+}
